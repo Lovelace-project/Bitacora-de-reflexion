@@ -53,5 +53,14 @@ div.Imageholder{
     width: 15%;
     height: fit-content;
     border: 5px solid #2B2A33;
+    padding: 10px;
+}
+.filesection{
+    background-color: #FFFFFF;
+    float:left;
+    margin:auto;
+    width: 15%;
+    height: fit-content;
+    border: 5px solid #2B2A33;
     padding: 10px
 }
